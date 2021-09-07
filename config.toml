@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://min-jie.github.io/Blooog/'
 languageCode = 'en-us'
 title = 'Meiko First Hugo Site'
 theme = "blackburn"
