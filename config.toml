@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Meiko First Hugo Site'
-theme = "cactus"
+theme = "blackburn"
 
 
