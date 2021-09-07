@@ -1,7 +1,7 @@
 baseURL = 'https://min-jie.github.io/Blooog/'
 languageCode = 'en-us'
 title = 'Meiko First Hugo Site'
-theme = "Blackburn"
+theme = "blackburn"
 
 author = "Moriii"
 # Shown in the side menu
